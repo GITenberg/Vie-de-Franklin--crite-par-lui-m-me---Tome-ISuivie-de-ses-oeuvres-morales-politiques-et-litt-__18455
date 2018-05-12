@@ -1,0 +1,58 @@
+_repo: Vie-de-Franklin--crite-par-lui-m-me---Tome-ISuivie-de-ses-oeuvres-morales-politiques-et-litt-__18455
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Castéra, Jean-Henri
+    aliases:
+    - Castéra, J.-H. (Jean-Henri)
+    - Castera, Jean-Henri
+    birthdate: 1749
+    deathdate: 1838
+    gutenberg_agent_id: '8040'
+    url: http://www.gutenberg.org/2009/agents/8040
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Franklin, Benjamin
+    birthdate: 1706
+    deathdate: 1790
+    gutenberg_agent_id: '92'
+    url: http://www.gutenberg.org/2009/agents/92
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Franklin
+description: "The Autobiography of Benjamin Franklin is the traditional name for the\
+  \ unfinished record of his own life written by Benjamin Franklin from 1771 to 1790;\
+  \ however, Franklin himself appears to have called the work his Memoirs. Although\
+  \ it had a tortuous publication history after Franklin's death, this work has become\
+  \ one of the most famous and influential examples of an autobiography ever written.\n\
+  Franklin's account of his life is divided into four parts, reflecting the different\
+  \ periods at which he wrote them. There are actual breaks in the narrative between\
+  \ the first three parts, but Part Three's narrative continues into Part Four without\
+  \ an authorial break (only an editorial one).\nIn the \"Introduction\" of the 1916\
+  \ publication of the Autobiography, editor F. W. Pine wrote that Franklin's biography\
+  \ provided the \"most remarkable of all the remarkable histories of our self-made\
+  \ men\" with Franklin as the greatest exemplar.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2006-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18455'
+  wikidata: Q7714957
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Franklin, Benjamin, 1706-1790'
+- !lcsh 'Statesmen -- United States -- Biography'
+title: "Vie de Franklin, écrite par lui-même - Tome I\r\nSuivie de ses œuvres morales,\
+  \ politiques et littéraires"
+url: http://www.gutenberg.org/ebooks/18455
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Autobiography_of_Benjamin_Franklin
+- https://pt.wikipedia.org/wiki/Autobiografia_de_Benjamin_Franklin
+- https://id.wikipedia.org/wiki/The_Autobiography_of_Benjamin_Franklin_(buku)
+- https://pl.wikipedia.org/wiki/%C5%BBywot_w%C5%82asny
+- https://la.wikipedia.org/wiki/Autobiographia_Beniamini_Franklinii
