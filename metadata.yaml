@@ -33,6 +33,8 @@ description: "The Autobiography of Benjamin Franklin is the traditional name for
   \ publication of the Autobiography, editor F. W. Pine wrote that Franklin's biography\
   \ provided the \"most remarkable of all the remarkable histories of our self-made\
   \ men\" with Franklin as the greatest exemplar.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18455#Vie-de-Franklin--crite-par-lui-m-me---Tome-ISuivie-de-ses-oeuvres-morales-politiques-et-litt-_
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2006-05-26'
 gutenberg_type: Text
